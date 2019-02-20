@@ -1,3 +1,4 @@
+/*
 table, td{
     border: 2px solid black;
     padding: 10px;
@@ -44,3 +45,129 @@ button:focus{
 #blue{
     color: #0053ba;
 }
+
+*/
+/*
+.clock {
+    border-radius: 50%;
+    background: #fff url(https://cdn.pixabay.com/photo/2017/10/25/01/56/clock-face-2886732_960_720.png) no-repeat center;
+    background-size: 88%;
+    height: 20em;
+    padding-bottom: 31%;
+    position: relative;
+    width: 20em;
+  }
+/*
+.clock {
+    border-radius: 100px;
+    background: url(http://clipart-library.com/images/8czMBaKcp.jpg) no-repeat center;
+    background-size: 200px;
+    width: 270px;
+    height:270px;
+    padding-bottom: 50px;
+   position: absolute;
+  }
+*/
+ /* 
+ 
+
+  .minutes-container, .hours-container, .seconds-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .hours {
+    background: #000;
+    height: 20px;
+    left: 48%;
+    position: absolute;
+    top: 30%;
+    transform-origin: 83px 100%;
+    width: 25px;
+  }
+  .minutes {
+    background: #000;
+    height: 20px;
+    left: 20px;
+    position: absolute;
+    top: 10px;
+    transform-origin: 83px 100%;
+    width: 20px;
+  }
+  .seconds {
+    background: #000;
+    height: 40px;
+    left: 50px;
+    position: absolute;
+    top: 15px;
+    transform-origin: 83px 80%;
+    width: 10px;
+    z-index: 8;
+  }
+  
+
+  
+  */
+
+/* }
+@keyframes sec_time {
+  from { transform: rotateZ(0deg);}
+    to {transform: rotateZ(0deg);}
+}
+@keyframes min_time {
+  from { transform: rotateZ(0deg);}
+    to {transform: rotateZ(0deg);}
+}
+@keyframes h_time {
+  from { transform: rotateZ(0deg);}
+    to {transform: rotateZ(0deg);}
+} */
+
+body {
+  background:pink;
+}
+
+/* /* .digi_clock { */
+  /* .digi_clock {
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  color: #f00;
+  font-size: 60px;
+  letter-spacing: 7px;
+}
+
+.analogue_clock { 
+  /* .analogue_clock { 
+  position:relative;   
+}
+
+
+.h-hand, .m-hand, .s-hand {
+ position: absolute;
+ top:0%;
+ left:0%
+}
+*/
+/* .digi_clock { */
+ /* .container{
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  color: #f00;
+  font-size: 60px;
+  letter-spacing: 7px;
+}
+
+/* .analogue_clock {  
+.ana_clock { 
+  position:relative;   
+}
+#h-hand, #m-hand, #s-hand {
+ position: absolute;
+ top:0%;
+ left:0%
+} 
+*/
